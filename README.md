@@ -1,5 +1,7 @@
 # Python / JSON TODOs with Pathlib
 
+**WARNING:** This project is **Python 3 only**. If you want to use Python 2 you should install `pathlib2` manually; **NOT** recommended though.
+
 # Install
 
 ```bash
