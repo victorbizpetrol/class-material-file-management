@@ -1,0 +1,17 @@
+{
+  "category_name": "General",
+  "todos": [
+    {
+      "task": "My TODO Task",
+      "due_on": null,
+      "status": "pending",
+      "description": null
+    },
+    {
+      "task": "My TODO Task",
+      "due_on": "2018-03-05",
+      "status": "pending",
+      "description": "Much description, wow"
+    }
+  ]
+}
